@@ -39,7 +39,7 @@
     {
       "file": "p1_calib/reference.txt",
       "lines": 3,
-      "sha256": "88d47fb8116ca16b7c9aabaab867795968a0a583d7fcd78be5b18145308cb9ff",
+      "sha256": "e62ef457be845df40b6ed47f945cab6f553e80e1234587acb6dcda65e7bbd2d1",
       "lock_before_reveal": true
     },
     {
@@ -65,13 +65,13 @@
     },
     {
       "file": "r1_craft/selfqc.md",
-      "lines": 22,
-      "sha256": "36e7f601e26795a01eb3e440b33b7d684a596a4139b70cee85835de57dd162ab"
+      "lines": 25,
+      "sha256": "bd9094a39c6d73d2cf7290a60402e42bb9daff369938d9217892ea816348c509"
     },
     {
       "file": "r1_craft/reference.txt",
       "lines": 3,
-      "sha256": "01ba50b2eccdab311dc5d2ff41aa69863cd9fb74b7efbc1dfbdd16355810a94f",
+      "sha256": "f7b72a389b87477ad630ccdba3a81ebf419bd95acd9a2f636ebe9aaa9e21f343",
       "lock_before_reveal": true
     },
     {
