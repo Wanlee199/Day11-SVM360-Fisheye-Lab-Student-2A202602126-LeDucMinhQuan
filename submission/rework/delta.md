@@ -2,8 +2,8 @@
 
 | zone | matched before | matched after | missing before | missing after | spurious before | spurious after |
 |---|---:|---:|---:|---:|---:|---:|
-| center | 3 | 3 | 10 | 10 | 0 | 0 |
-| mid | 1 | 1 | 4 | 4 | 0 | 0 |
-| edge | 1 | 1 | 1 | 1 | 0 | 0 |
+| center | 10 | 10 | 3 | 3 | 3 | 3 |
+| mid | 5 | 5 | 0 | 0 | 1 | 1 |
+| edge | 2 | 2 | 0 | 0 | 0 | 0 |
 
 ## Findings action=rework

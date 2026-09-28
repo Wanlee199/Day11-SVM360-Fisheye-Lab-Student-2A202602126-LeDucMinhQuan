@@ -54,14 +54,14 @@
     },
     {
       "file": "r1_craft/annotations.xml",
-      "lines": 280,
-      "sha256": "702f80251fcc7141a2ed6090b6259e3cc55e426c8e5b2e1f9da091b393b9c829"
+      "lines": 399,
+      "sha256": "d41110eec26cd057aa042ae06545825c5cfc8a0dfdd50d9de9d0c21032ceceb0"
     },
     {
       "file": "r1_craft/lock.txt",
-      "lines": 9,
-      "sha256": "d92f944fc4175a893c3feefe02ac94208937dcdfa57c3fe1306134a8a8a64655",
-      "locked_at": "2026-09-28T17:55:19+07:00"
+      "lines": 19,
+      "sha256": "70dcec0e29cb26556a918f1338706bcbcfb0d6f232706356fbe972e45eccd401",
+      "locked_at": "2026-09-28T18:34:56+07:00"
     },
     {
       "file": "r1_craft/selfqc.md",
@@ -71,18 +71,18 @@
     {
       "file": "r1_craft/reference.txt",
       "lines": 3,
-      "sha256": "f19b52dedd08bd4363492c37ce7070b959cbcbed6c7eebd62f33c93af7daf8c2",
+      "sha256": "01ba50b2eccdab311dc5d2ff41aa69863cd9fb74b7efbc1dfbdd16355810a94f",
       "lock_before_reveal": true
     },
     {
       "file": "r1_craft/compare.md",
-      "lines": 30,
-      "sha256": "0f79554c410e8f86a03adfb6296010f1a826a1695f88cf9c05cf7b5eb85ecced"
+      "lines": 25,
+      "sha256": "f96d1c92530f96bfa1cca84ccf41cf32912fc50729b7d9d2b050b1763008ef7c"
     },
     {
       "file": "r1_craft/compare.html",
-      "lines": 62,
-      "sha256": "e290ba15d0df828bc4815ae2f5c98e1325f7e8893a04f61c28825ff3fe15fb18"
+      "lines": 100,
+      "sha256": "e78fbb44b8762633141ee47193e6779c87cf66b3b95c94b5dbd68f1aac75104d"
     },
     {
       "file": "r2_qa/qa_review.md",
@@ -96,59 +96,59 @@
     },
     {
       "file": "r3_diag/local_quality.md",
-      "lines": 49,
-      "sha256": "44dd0e8e7efdcac4c05e1befc4af87e2e7c2a7ac9dbb3812a885bec8194313c3"
+      "lines": 51,
+      "sha256": "9924a3dd7732bc9788a7c4e9168d6bff66753ad86a50fa6d9b56508dbf3fc3b7"
     },
     {
       "file": "r3_diag/local_quality.json",
-      "lines": 329,
-      "sha256": "f03031994d3df371caf08ac5eb2a92a431b69d3fd44081a81560d44152badf74"
+      "lines": 292,
+      "sha256": "087f6be88e63f4b1288812b81c64e07e9f53d20683aaadfb5e06775aeb8952cb"
     },
     {
       "file": "r3_diag/local_quality_conflicts.csv",
-      "lines": 16,
-      "sha256": "48323e901b61ceff7667d4cc0519cff1eb27f68b4e778da295cc729dfaffa421"
+      "lines": 9,
+      "sha256": "dd7d0911411f9e61a123ea77dfb4a37009a971a4fff7ebee5849be50874dc6ee"
     },
     {
       "file": "r3_diag/local_quality_confusion.csv",
-      "lines": 7,
-      "sha256": "2f370f453a2531af0f42b9119be228bc63e8e8e0535572e1f5bcbde238d63180"
+      "lines": 8,
+      "sha256": "35f80b5cd22bed2919d5adf23c360eaa5dc7b28eb07540c0188628ae29f83374"
     },
     {
       "file": "r3_diag/model_compare.md",
-      "lines": 46,
-      "sha256": "0b780f2bae60e5c9f50bf96a9e483b2298b6c27f4ef4afdd9354f99a8320f766"
+      "lines": 50,
+      "sha256": "8b1a4cb0d4e32d578ac8762b9d667fee9d5b52edcc8be6c97f46e4ae9a111241"
     },
     {
       "file": "r3_diag/model_compare.html",
-      "lines": 108,
-      "sha256": "905cb8851c28836ae60ee8bd178002dd17fd80be1111d6d9635ad8e2eba12018"
+      "lines": 140,
+      "sha256": "9186e3cfd8e82203ad941b8280b3ec4966fe655f31be372c5507ec85c709b3e0"
     },
     {
       "file": "r3_diag/zone_table.md",
-      "lines": 6,
-      "sha256": "b03b89021e0605677d98f319026ba04f548771f3d7191d9aeb4bd0f0e2d018b4"
+      "lines": 14,
+      "sha256": "3127acf6750f94855325cb70ededa2a65eb76646a721478f504686b7bba6df78"
     },
     {
       "file": "rework/annotations-v2.xml",
-      "lines": 280,
-      "sha256": "702f80251fcc7141a2ed6090b6259e3cc55e426c8e5b2e1f9da091b393b9c829"
+      "lines": 399,
+      "sha256": "d41110eec26cd057aa042ae06545825c5cfc8a0dfdd50d9de9d0c21032ceceb0"
     },
     {
       "file": "rework/lock2.txt",
-      "lines": 9,
-      "sha256": "8480c05634ebb5709346588f10204a87dcab47c9c3c598a175582c84323ee861",
-      "locked_at": "2026-09-28T17:56:27+07:00"
+      "lines": 19,
+      "sha256": "524228b3197c116f8d8b76b4ffacf9feff8674e0bd7ea7138357be9be78301c2",
+      "locked_at": "2026-09-28T18:35:44+07:00"
     },
     {
       "file": "rework/delta.md",
       "lines": 9,
-      "sha256": "f915c62b5566bb239a3014058173c1bb802b412cb6663be4613299ab2b05341f"
+      "sha256": "855106124968e80075c3668415f8c4b9c6ab30cbe7cccdd69b70da9be044bfe1"
     },
     {
       "file": "findings.csv",
-      "lines": 52,
-      "sha256": "f4c4e08f7fe72690eecd41a60cad81187f60ebadfb615e6883644855278b5495"
+      "lines": 72,
+      "sha256": "46c316ab131e293f89591d374c3d3de17206ecb8fe6f4f675914802349e0fdb9"
     },
     {
       "file": "10_error_card.md",

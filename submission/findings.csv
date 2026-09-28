@@ -50,3 +50,23 @@ r3_diag,B2-dense,adasind_117120.jpg,M10,M_only,SPURIOUS,E4_model_domain,P2,ai_te
 r2_qa,B3-mid,adasind_128310.jpg,L1,L_only,BOX_GEOMETRY,,P2,qa,R02,screenshots/finding_evidence_1.png,keep_with_reason,v1.0.0,Review box bám mép fisheye gốc
 r2_qa,B3-mid,adasind_140160.jpg,L2,L_only,WRONG_CLASS,,P2,qa,R04,screenshots/finding_evidence_1.png,keep_with_reason,v1.0.0,Xác nhận đúng ThreeWheeler
 r2_qa,B3-mid,adasind_230910.jpg,L3,L_only,ATTRIBUTE,,P2,qa,R05,screenshots/finding_evidence_1.png,keep_with_reason,v1.0.0,Xác nhận truncated do vành kính
+r1_craft,B2-dense,adasind_062370.jpg,L7,na,IGNORE_SCOPE,,,,,,,,
+r1_craft,B2-dense,adasind_062370.jpg,R7,na,MISSING,,,,,,,,
+r1_craft,B2-dense,adasind_069450.jpg,L3,na,IGNORE_SCOPE,,,,,,,,
+r1_craft,B2-dense,adasind_117120.jpg,L1,na,IGNORE_SCOPE,,,,,,,,
+r1_craft,B2-dense,adasind_117120.jpg,L5,na,SPURIOUS,,,,,,,,
+r1_craft,B2-dense,adasind_117120.jpg,L7,na,SPURIOUS,,,,,,,,
+r1_craft,B2-dense,adasind_117120.jpg,L9,na,SPURIOUS,,,,,,,,
+r1_craft,B2-dense,adasind_117120.jpg,L10,na,SPURIOUS,,,,,,,,
+r3_diag,B2-dense,adasind_062370.jpg,L2+R1,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_062370.jpg,L6+R5,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_062370.jpg,L5+R6,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_062370.jpg,R7,R_only,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_069450.jpg,L1+R1,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_069450.jpg,L2+R2,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L8+R2,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L4+R4,LR_noM,MISSING,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L5,L_only,SPURIOUS,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L7,L_only,SPURIOUS,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L9,L_only,SPURIOUS,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,
+r3_diag,B2-dense,adasind_117120.jpg,L10,L_only,SPURIOUS,E1_annotator_error,P2,annotator,R01,,keep_with_reason,v1.0.0,

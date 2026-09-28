@@ -1,9 +1,19 @@
 round: r1_craft
 slice: B2-dense
-sha256: 702f80251fcc7141a2ed6090b6259e3cc55e426c8e5b2e1f9da091b393b9c829
-code: 702F-8025
-locked_at: 2026-09-28T17:55:19+07:00
-shapes: box=5
-prefill_kept: 5
-prefill_edited: 0
-new: 0
+sha256: d41110eec26cd057aa042ae06545825c5cfc8a0dfdd50d9de9d0c21032ceceb0
+code: D411-10EE
+locked_at: 2026-09-28T18:34:56+07:00
+shapes: box=27, polygon=6
+prefill_kept: 0
+prefill_edited: 4
+new: 23
+history:
+  round: r1_craft
+  slice: B2-dense
+  sha256: 702f80251fcc7141a2ed6090b6259e3cc55e426c8e5b2e1f9da091b393b9c829
+  code: 702F-8025
+  locked_at: 2026-09-28T17:55:19+07:00
+  shapes: box=5
+  prefill_kept: 5
+  prefill_edited: 0
+  new: 0
