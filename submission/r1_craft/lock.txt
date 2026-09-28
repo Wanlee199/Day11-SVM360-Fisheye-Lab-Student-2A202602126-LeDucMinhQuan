@@ -1,0 +1,9 @@
+round: r1_craft
+slice: B2-dense
+sha256: 702f80251fcc7141a2ed6090b6259e3cc55e426c8e5b2e1f9da091b393b9c829
+code: 702F-8025
+locked_at: 2026-09-28T17:55:19+07:00
+shapes: box=5
+prefill_kept: 5
+prefill_edited: 0
+new: 0

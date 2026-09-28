@@ -1,0 +1,7 @@
+{
+  "qa_reviews": {
+    "B7_MinhQuan": "B8_GiaLinh",
+    "B8_GiaLinh": "B9_ThuyLinh",
+    "B9_ThuyLinh": "B7_MinhQuan"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "members": [
+    "B7_MinhQuan",
+    "B8_GiaLinh",
+    "B9_ThuyLinh"
+  ],
+  "assignments": {
+    "B7_MinhQuan": "B2-dense",
+    "B8_GiaLinh": "B3-mid",
+    "B9_ThuyLinh": "B4-edge"
+  },
+  "self": "B7_MinhQuan",
+  "slice": "B2-dense",
+  "degrade": [],
+  "current_slice": "C0",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": []
+}

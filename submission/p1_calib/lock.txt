@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: 97c3055a377f379da858f7563455e357e8fbfe2377d2b82cc08013e534c3ab42
+code: 97C3-055A
+locked_at: 2026-09-28T17:54:47+07:00
+shapes: box=10, polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 10

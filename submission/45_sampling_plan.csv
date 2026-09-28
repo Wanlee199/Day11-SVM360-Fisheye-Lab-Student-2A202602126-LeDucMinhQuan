@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,30,Low risk,Đường thẳng quang đạt tầm nhìn rõ
+front,hard,20,High risk,Xe cắt ngang lề và chói sáng mặt trời
+rear,normal,30,Low risk,Xe lùi khoảng cách an toàn
+rear,hard,20,High risk,Khu vực xe bám sát đuôi và khuất điểm mịt
+left,normal,30,Low risk,Làn xe song song ổn định
+left,hard,20,High risk,Xe vượt góc mù và vùng đè seam lề trái
+right,normal,30,Low risk,Làn xe bên phải tốc độ đều
+right,hard,20,High risk,Góc méo rìa fisheye phải và chướng ngại vật sát thân xe

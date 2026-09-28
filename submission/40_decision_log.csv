@@ -1,1 +1,5 @@
-id,date,question,decision,rationale,status
+decision_id,round,frame,object_ref,topic,decision,rationale,status,owner
+DEC-01,r1_craft,adasind_062370.jpg,L1,Rider Rule,Hợp nhất người lái và xe hai bánh thành 1 box Bike,Theo quy tắc R03 luật rider,approved,annotator
+DEC-02,r2_qa,adasind_128310.jpg,L1,Box Geometry,Giữ nguyên ranh giới box bám fisheye gốc,Bám phần nhìn thấy thực tế R02,approved,qa
+DEC-03,r3_diag,adasind_069450.jpg,M5,Model False Positive,Không thêm box theo YOLO model cho bóng râm,Model bị nhầm domain bóng râm R11,approved,ai_team
+DEC-04,r3_diag,adasind_117120.jpg,L2,Ambiguous Object,Leo thang ca xe ba bánh bị che 70% lên Data Lead,Vật bị che quá mờ cần policy xác nhận,escalated,data_ops

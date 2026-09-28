@@ -4,3 +4,5 @@ build/
 .[e]nv
 __pycache__/
 *.pyc
+.agents/
+scratch/

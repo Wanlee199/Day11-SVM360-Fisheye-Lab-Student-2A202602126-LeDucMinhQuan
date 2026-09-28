@@ -1,6 +1,8 @@
-# Sensor context
+# Sensor Context & Operational Envelope
 
-- TODO — Rig: mô tả ngắn xe/camera gắn ở đâu theo hiểu biết của bạn từ ảnh (ADASIND không kèm tài liệu rig chi
-  tiết, ghi theo quan sát).
-- TODO — `ego_body` nhìn thấy ở đâu trong frame (góc capo, gương, tay lái...).
-- TODO — Vòng kính (lens circle) nằm ở vị trí nào trong ảnh, chiếm khoảng bao nhiêu phần khung hình.
+## Quan sát bối cảnh dữ liệu
+- **Thiết bị:** 1 camera fisheye đơn phía trước xe (Front Fisheye ADASIND), góc rộng ~180-190 độ.
+- **Biến dạng hình học:** Méo nhiều ở vùng biên (edge zone), vùng giữa (center zone) tương đối chuẩn hình dáng.
+- **Vòng kính (Lens Border):** Có vành đen bao quanh góc nhìn camera fisheye ở rìa ảnh.
+- **Thân xe Ego (Ego Body):** Thân xe/nắp capo/gương xe xuất hiện ở phần đáy khung hình trong 46/48 frame ADASIND.
+- **Giới hạn:** 1 camera không đại diện đầy đủ cho hệ thống 4 camera SVM 360 xung quanh xe (cần kết hợp Front, Rear, Left, Right).
